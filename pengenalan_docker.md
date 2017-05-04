@@ -146,7 +146,7 @@ Untuk `vhost.conf` diatas kita harus membuat filenya terlebih dahulu lalu isikan
 
 Setelah semua konfigurasi selesai, jalankan `docker-composer build` dan untuk menjalankannya kita bisa mengetik `docker-composer up`. Setelah selesai loading kita tinggal membuka web kita tadi di browser dengan url `localhost:1111`.
 
-![alt text](https://doc-0c-7k-docs.googleusercontent.com/docs/securesc/c80u2j8rspp7k99kb306llscrl71l3jn/ipe9rppv7i3je13dnq1gsi7a3krg98ph/1493856000000/11285658977785115420/11285658977785115420/0B85NQzrRozwwdXBYSDRxR3Fabjg?e=view&nonce=a4rtcpeh1q3pi&user=11285658977785115420&hash=fk15o8jjo1sk9g08bo7g0fqa7ua8fd4q "laravel")
+![laravel](https://drive.google.com/uc?id=0B85NQzrRozwwdXBYSDRxR3Fabjg "Laravel")
 
 Sumber referensi :
 1. https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-16-04
