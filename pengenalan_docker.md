@@ -53,8 +53,11 @@ Untuk download laravel menggunakan composer :
 ```
 $ composer create-project --prefer-dist laravel/laravel blog
 ```
-
-Kemudia kita akan menggunakan composer/composer image dari docker
+Kemudian kita masuk ke directori dari project tersebut dengan mengetikkan perintah :
+```
+$ cd blog
+```
+Untuk menggunakan composer/composer image dari docker kita dapat mengetikkan perintah :
 ```
 $ docker run --rm -v $(pwd):/app composer/composer install
 ```
