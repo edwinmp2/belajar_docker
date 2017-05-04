@@ -25,12 +25,12 @@ Kelima, cek apakah docker yang akan diinstall adalah default repo ubuntu 16.04 :
 $ apt-cache policy docker-engine
 ```
 
-    Lalu akan muncul tulisan berikut di terminal
-    
-    docker-engine:
-        Installed: 17.04.0~ce-0~ubuntu-xenial
-        Candidate: 17.04.0~ce-0~ubuntu-xenial
-    
+Lalu akan muncul tulisan berikut di terminal
+```    
+docker-engine:
+    Installed: 17.04.0~ce-0~ubuntu-xenial
+    Candidate: 17.04.0~ce-0~ubuntu-xenial
+``` 
 Keenam, install docker engine
 
 ```
